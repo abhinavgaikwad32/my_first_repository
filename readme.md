@@ -5,3 +5,6 @@ this repo will be used for learning anf trainin gpurepopsed
 - Prince
 - Abhinav
 - Akash
+- Ram
+
+Shyam

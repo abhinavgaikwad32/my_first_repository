@@ -6,6 +6,6 @@ resource "azurerm_resource_group" "vm-rg" {
 
 resource "azurerm_resource_group" "vm-rg2" {
   name     = "vm-rg2"
-  location = "eastus"
+  location = "west europe"
   
 }

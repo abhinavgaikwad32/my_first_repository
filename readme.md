@@ -6,5 +6,6 @@ this repo will be used for learning anf trainin gpurepopsed
 - Abhinav
 - Akash
 - Ram
+- Akanksha
 
 Shyam
